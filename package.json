@@ -1,0 +1,9 @@
+{
+  "name": "my-boiler-plate",
+  "version": "1.0.0",
+  "description": "Simple & minimal boilerplate for react & redux frontend projetcs using webpack.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Alexandre Grais",
+  "license": "MIT"
+}
